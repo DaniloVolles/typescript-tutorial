@@ -1,0 +1,17 @@
+1. Criar o projeto setando o arquivo package.json
+-    npm init
+
+
+2. Adicionar typecript ao projeto
+-    npm add typescript -D
+
+
+3. Configurar projeto como projeto node
+-    npm add ts-node -D
+
+
+4. Arquivo de settings do typescript
+-    npx tsc --init
+
+
+5. 
